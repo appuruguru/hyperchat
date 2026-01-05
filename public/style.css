@@ -46,6 +46,13 @@ body {
   }
 }
 
+.logo {
+  display: block;
+  margin: 0 auto 24px;
+  width: 180px;
+  height: auto;
+}
+
 h1 {
   font-size: 36px;
   text-align: center;

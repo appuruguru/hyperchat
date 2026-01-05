@@ -1,4 +1,4 @@
-# HyperChat
+# HyperChAT
 
 A decentralized, peer-to-peer web chat application built with Node.js and Hyperswarm.
 

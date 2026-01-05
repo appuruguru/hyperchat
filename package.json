@@ -1,7 +1,7 @@
 {
   "name": "hyperchat",
   "version": "1.0.0",
-  "description": "Decentralized P2P web chat application using Hyperswarm",
+  "description": "HyperChAT - Decentralized P2P web chat application using Hyperswarm",
   "main": "server.js",
   "type": "module",
   "scripts": {
