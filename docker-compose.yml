@@ -1,0 +1,7 @@
+services:
+  hyperchat:
+    build: .
+    network_mode: "host"
+    environment:
+      - PORT=3030
+    restart: unless-stopped

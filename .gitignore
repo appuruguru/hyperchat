@@ -1,0 +1,12 @@
+node_modules
+dist
+.env
+.env.local
+*.log
+.DS_Store
+bun.lockb
+coverage
+
+# Claude Code settings (developer only)
+.claude/
+CLAUDE.md

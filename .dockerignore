@@ -1,0 +1,10 @@
+node_modules
+hyperchat-desktop
+.git
+.github
+.gitignore
+README.md
+*.md
+.env
+.DS_Store
+dist

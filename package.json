@@ -1,0 +1,27 @@
+{
+  "name": "hyperchat",
+  "version": "1.0.0",
+  "description": "Decentralized P2P web chat application using Hyperswarm",
+  "main": "server.js",
+  "type": "module",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "node server.js"
+  },
+  "keywords": [
+    "p2p",
+    "chat",
+    "hyperswarm",
+    "dht",
+    "decentralized",
+    "web"
+  ],
+  "author": "appuruguru",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.18.2",
+    "hyperswarm": "^4.8.3",
+    "b4a": "^1.6.7",
+    "ws": "^8.16.0"
+  }
+}
